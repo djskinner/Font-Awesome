@@ -1,3 +1,5 @@
+###.bower.json edited so as not to only pull in what is needed
+
 #[Font Awesome v4.0.3](http://fontawesome.io)
 ###the iconic font designed for Bootstrap
 
